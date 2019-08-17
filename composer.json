@@ -1,0 +1,13 @@
+{
+    "name": "firstpackage/composer",
+    "require-dev": {
+        "laravel/framework": "^5.8"
+    },
+    "authors": [
+        {
+            "name": "Noforgive",
+            "email": "maithaison1998@gmail.com"
+        }
+    ],
+    "require": {}
+}
